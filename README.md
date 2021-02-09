@@ -1,7 +1,7 @@
 # Appbolsa
 Dashboard para visualização de dados da bolsa brasileira (B3) do ano de 2020, com atualização em tempo real. Nesse projeto o principal objetivo era construir um "Home Broker" próprio, usando Shiny apps.
 
-<img src="https://github.com/matheusduzzi/appbolsa/blob/master/b3.png" align="center>
+<img src="https://github.com/matheusduzzi/appbolsa/blob/master/b3.png" align="center">
 
 ## Foram utilizadas aqui as seguintes fontes de aquisição de dados
 - API da Alpha Vantage
